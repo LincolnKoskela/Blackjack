@@ -1,10 +1,11 @@
 # Blackjack (Java)
-This project will turn into more than just a fun game a blackjack. It'll teach you the best 
-strategies to win at casinos. I'll also add a card counting simulator to turn any player into 
-a card counting magician. I surely can't match the high intensity of sitting across from the dealer, 
-all those cameras watching you, and mucho money on the line, through a virtual screen.  
-However, I'll do my very best to replicate the environment to give the best possible experience, ultimately, 
-turning the odds in our favor.
+Welcome to the Blackjack project — a game that's going to be more than just the usual. 
+This app will eventually teach players real casino strategy, optimal decision making, 
+and even a full **card counting simulator** to help turn any player into an advantage-playing magician.
+
+I surely can't perfectly recreate the adrenaline of sitting across from the dealer with cameras watching you
+and mucho money on the line. But I *can* give you the next best thing through a clean UI, realistic gameplay, 
+and strategy tools, designed to tilt the odds back in our favor.
 
 ## Current State of Game
 Work in progress. Building engine.
