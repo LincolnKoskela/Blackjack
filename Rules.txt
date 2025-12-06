@@ -1,0 +1,70 @@
+Rules of blackjack
+
+    Dealing
+
+        Dealer starts with the first player on their left ("first base")
+        Deals one card face up to each player around the table 
+        Then deals one card to themselves face DOWN (hole card)
+
+        Second Card goes around again, in the same direction 
+        Second Card is face up to each player and to themselves
+
+        Players always have two cards face up. 
+
+    Spliting
+
+        What does splitting mean
+
+            If your first two cards are a pair(same rank), you can divide them into TWO seperate hands,
+            placing an additional bet equal to your original bet.
+
+                ex: 
+                    You get 8S and 8C
+                    Hand 1: 8S + (new card)
+                    Hand 2: 8C + (new card)
+
+        Core rules for splitting
+
+            Must be the same rank, not value
+            You must place an additional bet
+                original bet stays on Hand1
+                add an equal bet for Hand2
+            Each split gets a new card
+
+        Splitting Aces
+
+            Most casinos only allow one card per Ace after splitting
+            You cannot hit after recieving that one card
+            Ace of Spade + one card, Ace of Clubs + one card -> both are frozen
+
+            Note:
+                A 10 on a split Ace counts as 21, not blackjack, so it pays 1:1, not 3:2
+
+        Re-splitting Rules
+
+            Typical US Rules
+
+                You may re-split up to 3 times, making 4 hands max
+                
+                ex
+                    8-8 -> split -> one 8 gets another 8 -> re-split
+
+                Aces are usually not re-splittable
+
+        Hitting and Doubling after Splitting 
+
+            Hit
+
+                Allowed on ALL split hands except Aces
+
+            Double DOWN
+
+                Allowed on split hands at many tables, but not universal
+                Some casinos prohibit doubling after splitting 10s
+
+            Split + Double 
+
+                DAS = Double after Split
+                If table says DAS is allowed, you can double on any split pair except Aces
+
+            
