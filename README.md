@@ -21,6 +21,15 @@ You can view my current development progress out here:
 | **Deck** | Represents standard 52 deck of playing cards. |
 | **Hand** | Represents a single hand for a given round of Blackjack. | 
 
+## Future Road Map (Project Management for more detail)
+| **Milestone** | **Description** | 
+|---------------|-----------------|
+| **GameEngine** | Playable from Console Blackjack in `Java` |
+| **Spring Boot** | Convert into a backend API | 
+| **JS/HTML/CSS** | Build interface that calls the API. GUI in the browser | 
+| **Interactive** | Style it & make interactive | 
+| **Card Counting** | Implement a interactive card counting trainer |
+
 ## Tech 
 - Language: Java
 - IDE: VSC
